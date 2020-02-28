@@ -4,7 +4,7 @@
 
 ### 1.Instagram Quotes - EST TIME: 1.5hr
 
-1. Go to [Mars()
+1. Go to [Mars]()
 2. Follow the instructions in that repo
 
 
