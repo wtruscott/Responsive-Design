@@ -2,9 +2,9 @@
 
 ## Command Line / Interview Questions
 
-### 1.Resonpsive Design  - EST TIME: 1.5hr
+### 1.Responsive Design  - EST TIME: 1.5hr
 
-1. Go to [Responsive Design](./responsive-design)
+1.  Go to [Responsive Design](./responsive-design)
 2. Follow the instructions in that repo
 
 
