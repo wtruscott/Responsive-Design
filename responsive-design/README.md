@@ -17,4 +17,4 @@
 
 ### Additional Submission
 
-1. 
+In order to assist the team in reviewing submissions and working through additiona code assists please copy your html/css into a new codepen and add your link [here](https://docs.google.com/spreadsheets/d/1fNOTPbQu-ZWDPwOhjSIkot7pGj2u2ZPuNk_O_yQwyHU/edit#gid=420164307)
