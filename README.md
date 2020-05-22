@@ -23,9 +23,9 @@ None assigned at this time
 
 ### 4.  INTERVIEW PRACTICE - EST TIME: 20min
 
-2. Under the GENERAL section write your answer to the following interview question: 
+1. Under the GENERAL section write your answer to the following interview question: 
    - **What are the best techniques you've used learn new material and how are you implementing them in the SEI course?**.
-3. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
-4. Add a link to the following [spreadheet](https://docs.google.com/spreadsheets/u/0/d/1brTSyF1pa1bjWFS5yUrMyizd3sZgvYn5uLet93aZKVg/edit) to your shared google doc.
+2. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
+3. Add a link to the following [spreadheet](https://docs.google.com/spreadsheets/u/0/d/1brTSyF1pa1bjWFS5yUrMyizd3sZgvYn5uLet93aZKVg/edit) to your shared google doc.
 
 
