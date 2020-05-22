@@ -8,12 +8,13 @@
 
 
 ### 2. Read/Watch The Following - EST TIME: 35min / Including Bonus: 1.3hrs
-2. Read [responsive-web-design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries) - 20min
-4. Watch: [Algo: Unique Letters](https://www.youtube.com/watch?v=EqOd0q_86M8) - 14min
+- Read [responsive-web-design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries) - 20min
+- Watch: [Algo: Unique Letters](https://www.youtube.com/watch?v=EqOd0q_86M8) - 14min
 
 
 **Bonus:**
-2. Watch: [Thinking Like A Front End Developer](https://css-tricks.com/video-screencasts/169-how-to-think-like-a-front-end-developer/) - 43min
+
+- Watch: [Thinking Like A Front End Developer](https://css-tricks.com/video-screencasts/169-how-to-think-like-a-front-end-developer/) - 43min
 
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
