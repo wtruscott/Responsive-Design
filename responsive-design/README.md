@@ -11,7 +11,7 @@
 4. Add an additional link tag to the reset.css using this [link](https://cdnjs.com/libraries/meyer-reset)
 
 ### Review Existing Solution
-- Review the [solution](https://codepen.io/jkeohan/pen/oNjYVBw) in Google's Dev Tools. 
+- Review the [solution](https://codepen.io/jkeohan/live/oNjYVBw) in Google's Dev Tools. 
 - Recreate the solution starting with Mobile First and building out from there.
 ![](https://i.imgur.com/1i7F9rj.png)
 
