@@ -11,8 +11,8 @@
 4. Add an additional link tag to the reset.css using this [link](https://cdnjs.com/libraries/meyer-reset)
 
 ### Review Existing Solution
-- Review the [solution](https://codepen.io/jkeohan/live/oNjYVBw) in Google's Dev Tools. 
-- Recreate the solution starting with Mobile First and building out from there.
+- An interactive [solution](https://codepen.io/jkeohan/live/oNjYVBw) has been provided which you can inspect using Chrome Dev Tools. 
+- You must recreate the solution starting with Mobile First, then Tablet and then Desktop.
 ![](https://i.imgur.com/1i7F9rj.png)
 
 
