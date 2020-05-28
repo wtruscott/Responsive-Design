@@ -12,6 +12,6 @@
 ### Review Existing Solution
 - An interactive [solution](https://codepen.io/jkeohan/live/oNjYVBw) has been provided which you can inspect using Chrome Dev Tools. 
 - You must recreate the solution starting with Mobile First, then Tablet and then Desktop.
-![](https://i.imgur.com/1i7F9rj.png)
+![](https://i.imgur.com/KhKJ4zC.png)
 
 
