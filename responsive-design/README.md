@@ -11,7 +11,7 @@
 
 ### Review Existing Solution
 - An interactive [solution](https://codepen.io/jkeohan/live/oNjYVBw) has been provided which you can inspect using Chrome Dev Tools. 
-- You must recreate the solution starting with Mobile First, then Tablet and then Desktop.
+- You must recreate the solution starting with Mobile First, then Tablet (min-width:768px) and then Desktop (min-width:1024px).
 ![](https://i.imgur.com/KhKJ4zC.png)
 
 
