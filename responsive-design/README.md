@@ -6,7 +6,7 @@
 1. Create the following files inside this folder: 
 	- index.html
 	- style.css
-3. Be sure to add a link tag inside index.html to import style.css
+3. Be sure to link the `style.css` with index.html
 4. Add an additional link tag to the reset.css using this [link](https://cdnjs.com/libraries/meyer-reset)
 
 ### Review Existing Solution
