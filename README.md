@@ -10,7 +10,7 @@
 
 ### 2. Read/Watch The Following - EST TIME: 35min / Including Bonus: 1.3hrs
 - Read [responsive-web-design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries) - 20min
-- Watch: [Algo: Unique Letters](https://www.youtube.com/watch?v=EqOd0q_86M8) - 14min
+- Watch [How To Make A PBJ Sandwich](https://www.youtube.com/watch?v=Ct-lOOUqmyY) - 6min
 
 
 **Bonus:**
