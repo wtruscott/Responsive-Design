@@ -11,7 +11,6 @@
 5. When completed submit your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSeroos9mbUxkYhzETYq4dylzqb_il07tKHBby2YPLkqb0Wr9Q/viewform). 
 
 ### Review Existing Solution
-- An interactive [solution](https://codepen.io/jkeohan/live/oNjYVBw) has been provided which you can inspect using Chrome Dev Tools. 
 - You must recreate the solution starting with `Mobile First`, then `Tablet (min-width:768px)` and ending with `Desktop (min-width:1024px)`.
 
 <p>&nbsp;</p>
