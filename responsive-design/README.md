@@ -2,7 +2,7 @@
 
 
 ### Setup
-1. Fork and Clone this repo
+1. Fork and Clone the homework repo
 1. Create the following files inside this folder: 
 	- index.html
 	- style.css
