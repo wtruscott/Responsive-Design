@@ -9,7 +9,7 @@
 
 
 ### 2. Read/Watch The Following - EST TIME: 35min / Including Bonus: 1.3hrs
-- Do [Install The Current Version Of Node](https://nodejs.org/en/)
+- Do [Install The Current Version Of Node](https://nodejs.org/en/) - < 2min
 - Read [responsive-web-design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries) - 20min
 - Watch [How To Make A PBJ Sandwich](https://www.youtube.com/watch?v=Ct-lOOUqmyY) - 6min
 
