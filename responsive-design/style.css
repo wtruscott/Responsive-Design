@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@1,500&display=swap');
+
+body {
+    min-width: 300px;
+    max-width: 1200px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #f38927;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:600;
+}
+
+h2 {
+    color: #f38927;
+    background: black;
+    display:none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    padding: 5px;
+    margin: 0 0 7px 0;
+}
+
+p {
+    display:none;
+    /* I could not get the space to show up after the span so I looked this up. */
+    white-space: pre;
+    align-items: baseline;
+    margin: 0 0 7px 0;
+}
+
+span {
+    color: #ee2225;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+}
+nav {
+    background-color: #f1f1f1;
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-content: flex-end;
+}
+
+i {
+    padding: 5px;
+}
+
+li {
+    margin: auto 20px;
+    display: none;
+}
+
+section {
+    padding: 15px;
+    
+}
+
+.section1 {
+    background: #7dd31f;
+    color: white;
+}
+
+.section3 {
+    background: #ea5b4c;
+    color: white;
+}
+
+.section5 {
+    background: #45aeff;
+    color: white;
+}
+
+@media screen and (min-width:768px) {
+
+    h1 {
+        font-size: 40px
+    }
+    
+    nav {
+        justify-content: flex-start;
+    }
+
+    li {
+        display: flex;
+    }
+
+    /* I could not make the display : none property work on the icon, so its still on the page but i made it turn the same color as the nav bar. */
+
+    i {
+        color: #f1f1f1;
+    }
+
+    main {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+    }
+
+    .section3 {
+        grid-column: 2 / 3;
+        grid-row: 1 / 2;
+    }
+
+    .section5 {
+        grid-column: 1 / span 2;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    h1 {
+        font-size: 70px;
+        max-width: 480px;
+        position: center;
+        margin: 0 auto;
+    }
+
+    h2, p {
+        display: flex;
+    }
+
+    main {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+
+    .section5 {
+        grid-column: 3 / 4;
+        grid-row: 1 / 2;
+    }
+
+}
+
